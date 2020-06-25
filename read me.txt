@@ -1,0 +1,12 @@
+1- delete migrations folder 
+2- update connection string add name of Data Source (server name) in webconfig file
+3- open nuget consol
+4- add migration step1
+5- update-database
+6- add record in role table (1,"Admin") in Database
+
+7- ng serve 
+8 - register a user with name(aly)  must (to make it admin)
+9- register a user with any name as visitor 
+
+
